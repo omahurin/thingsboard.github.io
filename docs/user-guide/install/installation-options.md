@@ -150,15 +150,6 @@ notitle: "true"
                                         </a>
                                     </div>
                                     <div class="deployment-card-block">
-                                        <a href="/docs/user-guide/install/digital-ocean/">
-                                            <span>
-                                                <div class="deployment-logo">
-                                                    <img width="" src="/images/install/cloud/digitalocean.svg" title="Digital Ocean" alt="Digital Ocean">
-                                                 </div>
-                                            </span>
-                                        </a>
-                                    </div>
-                                    <div class="deployment-card-block">
                                         <a href="/docs/user-guide/install/gcp/">
                                             <span>
                                                 <div class="deployment-logo">

@@ -25,8 +25,6 @@ toc:
   section:
   - title: AWS
     path: /docs/user-guide/install/aws/
-  - title: DigitalOcean
-    path: /docs/user-guide/install/digital-ocean/
   - title: Google Cloud Platform
     path: /docs/user-guide/install/gcp/
   - title: Azure

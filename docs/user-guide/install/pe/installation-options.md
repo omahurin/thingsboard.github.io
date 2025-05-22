@@ -133,15 +133,6 @@ redirect_from: "/docs/pe/user-guide/install/installation-options/"
                                         </a>
                                     </div>
                                     <div class="deployment-card-block">
-                                        <a href="/docs/user-guide/install/pe/digital-ocean/">
-                                            <span>
-                                                <div class="deployment-logo">
-                                                    <img width="" src="/images/install/cloud/digitalocean.svg" title="DigitalOcean" alt="DigitalOcean">
-                                                 </div>
-                                            </span>
-                                        </a>
-                                    </div>
-                                    <div class="deployment-card-block">
                                         <a href="/docs/user-guide/install/pe/gcp/">
                                             <span>
                                                 <div class="deployment-logo">
