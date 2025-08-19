@@ -381,5 +381,7 @@ toc:
   path: /docs/pe/user-guide/troubleshooting/
 - title: Release Notes
   path: /docs/pe/reference/releases/
+- title: Release Policy
+  path: /docs/pe/reference/release-policy/
 - title: Roadmap
   path: /docs/pe/reference/roadmap/
