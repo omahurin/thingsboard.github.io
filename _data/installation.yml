@@ -5,6 +5,8 @@ toc:
   path: /docs/user-guide/install/installation-options/
 - title: On-premises
   section:
+  - title: System Requirements
+    path: /docs/user-guide/install/system-requirements/
   - title: Ubuntu Server
     path: /docs/user-guide/install/ubuntu/
   - title: CentOS/RHEL Server

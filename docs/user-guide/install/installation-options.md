@@ -14,9 +14,8 @@ notitle: "true"
             <div class="install-options-hero-content">
                 <h1>ThingsBoard installation options</h1>
                 <div class="install-options-description">
-                    <p>
-                        ThingsBoard is designed to run and utilize on majority of hardware, from local Raspberry PI to powerful servers in the cloud
-                    </p>
+                    <p> ThingsBoard is designed to run and utilize on majority of hardware, from local Raspberry PI to powerful servers in the cloud. </p>
+                    <a href="/docs/user-guide/install/system-requirements/">View system requirements</a>
                 </div>
             </div>
             <div class="deployment-container">
